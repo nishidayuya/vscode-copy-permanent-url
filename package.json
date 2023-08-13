@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "copy-permanent-url.helloWorld",
-        "title": "Hello World"
+        "command": "copy-permanent-url.copyPermanentUrl",
+        "title": "Copy Permanent URL"
       }
     ]
   },
