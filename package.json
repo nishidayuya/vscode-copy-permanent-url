@@ -18,7 +18,19 @@
         "command": "copy-permanent-url.copyPermanentUrl",
         "title": "Copy Permanent URL"
       }
-    ]
+    ],
+    "menus": {
+      "editor/context/copy": [
+        {
+          "command": "copy-permanent-url.copyPermanentUrl"
+        }
+      ],
+      "menuBar/edit/copy": [
+        {
+          "command": "copy-permanent-url.copyPermanentUrl"
+        }
+      ]
+    }
   },
   "homepage": "https://github.com/nishidayuya/vscode-copy-permanent-url",
   "repository": {
