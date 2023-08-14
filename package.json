@@ -3,6 +3,7 @@
   "displayName": "Copy permanent URL",
   "description": "Copy permanent URL",
   "version": "0.1.0",
+  "publisher": "nishidayuya",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -19,10 +20,15 @@
       }
     ]
   },
+  "homepage": "https://github.com/nishidayuya/vscode-copy-permanent-url",
   "repository": {
     "type": "git",
     "url": "https://github.com/nishidayuya/vscode-copy-permanent-url.git"
   },
+  "bugs": {
+    "url": "https://github.com/nishidayuya/vscode-copy-permanent-url/issues"
+  },
+  "license": "X11",
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
