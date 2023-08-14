@@ -2,7 +2,7 @@
   "name": "copy-permanent-url",
   "displayName": "Copy permanent URL",
   "description": "Copy permanent URL",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.81.0"
   },
